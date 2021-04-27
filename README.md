@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sidharth
 #### Web developer & UX designer
-I build things for the web that look nice, and work the way we expect them to. Visuals and UX is a important thing for me.
+I build things for the web that look good, and work the way we expect them to. Visuals and UX are important things for me.
 
 Skills:  REACT / JS / HTML / CSS
 
