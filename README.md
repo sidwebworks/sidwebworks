@@ -4,7 +4,7 @@ I build things for the web that look good, and work the way we expect them to. V
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on a freelance project 
+- 🔭 I’m currently working in a startup
 - 👯 I’m looking to collaborate on more open source projects 
 - 💬 Ask me about Web development, UX design and Electronics 
 - 📫 How to reach me: xodedeveloper@gmail.com 
