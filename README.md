@@ -2,7 +2,7 @@
 #### Web developer & UX designer
 I build things for the web that look good, and work the way we expect them to. Visuals and UX are important things for me.
 
-- 🔭 I’m currently working in a startup
+- 🔭 I’m currently working on side projects and some opensource
 - 👯 I’m looking to collaborate on more open source projects 
 - 💬 Ask me about Web development, UX design and Electronics 
 - 📫 How to reach me: xodedeveloper@gmail.com 
