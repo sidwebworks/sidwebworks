@@ -1,6 +1,4 @@
 <!---------------------------- Github Statistics ----------------------------->
-## 📊 Github Statistics
-
 <p align="left">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=sidwebworks&show_icons=true&theme=react&bg_color=20232a&hide_border=true" />
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=sidwebworks&theme=react&bg_color=20232a&hide_border=true" />
